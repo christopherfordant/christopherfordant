@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 1.4rem;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+
+}
+
+.container {
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1E2337;
+}
+
+h1 {
+    color: red;
+}
+
+
+.navbar-desktop {
+    height: 15vh;
+    line-height: 15vh;
+    text-align: center;
+    padding: auto;
+}
+
+.navbar-desktop a {
+    margin-right: 5px;
+}
+
+.navbar-desktop a:hover {
+    text-decoration-line: underline;
+}
+
+
+.navbar-mobile {
+    display: none;
+}
+
+.navbar-mobile i {
+    position: fixed;
+    top: 9px;
+    right: 15px;
+    font-size: 3rem;
+    color: red;
+}
+
+.navbar-mobile-modal {
+    background-color: #F92995;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.navbar-mobile .navbar-mobile-list {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-mobile .navbar-mobile-list a {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #1E2337;
+    padding: 2rem;
+}
+
+.navbar-mobile i {
+    position: fixed;
+    z-index: 9999;
+    top: 9px;
+    right: 15px;
+    font-size: 3rem;
+    color: rgb(165, 8, 8);
+}
+
+@media screen and (max-width : 700px) {
+    .navbar-desktop {
+        display: none;
+
+    }
+
+    .navbar-mobile {
+        display: block;
+    }
+
+    .container {
+        height: 100vh;
+    }
+}
+
+.modal {
+    background-color: #FFF;
+    height: 100vh;
+    position: fixed;
+    top: -100vh;
+    left: 0;
+    width: 100%;
+    opacity: 0.9;
+    transition: top 0.9s;
+}
+
+.change-modal {
+    top: 0;
+
+}
