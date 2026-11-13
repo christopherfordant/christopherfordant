@@ -1,5 +1,8 @@
 <p align="center">
-  <a><img src="assets/profile-cover-tech.png" alt="Christopher Fordant — Web, automatisation et IA. En recherche de formation POEI ou d’emploi." width="100%" /></a>
+  <picture>
+    <source srcset="assets/profile-cover-tech.png" type="image/png" />
+    <img src="assets/profile-cover-tech.png" alt="Christopher Fordant — Web, automatisation et IA. En recherche de formation POEI ou d’emploi." width="100%" />
+  </picture>
 </p>
 
 <p align="center">
