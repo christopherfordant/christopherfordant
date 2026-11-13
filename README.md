@@ -1,18 +1,10 @@
 <p align="center">
-  <img src="assets/profile-cover-tech.png" alt="Christopher Fordant — Web, automatisation et IA. En recherche de formation POEI ou d’emploi." width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/christopher-portrait.png" alt="Portrait de Christopher Fordant" width="150" />
+  <a><img src="assets/profile-cover-tech.png" alt="Christopher Fordant — Web, automatisation et IA. En recherche de formation POEI ou d’emploi." width="100%" /></a>
 </p>
 
 <p align="center">
   <strong>Je transforme des idées en projets web, en parcours utiles et en automatisations.</strong><br />
   Mon fil conducteur : rendre les choses plus simples pour les personnes qui les utilisent.
-</p>
-
-<p align="center">
-  <a href="https://github.com/christopherfordant/GetYourMentor"><img alt="Découvrir GetYourMentor" src="https://img.shields.io/badge/DÉCOUVRIR-GETYOURMENTOR-38d9ff?style=for-the-badge&amp;labelColor=101827" /></a>
 </p>
 
 ## À la recherche de ma prochaine opportunité
