@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/christopher-portrait.png" alt="Portrait de Christopher Fordant" width="150" />
+</p>
+
+<p align="center">
   <strong>Je transforme des idées en projets web, en parcours utiles et en automatisations.</strong><br />
   Mon fil conducteur : rendre les choses plus simples pour les personnes qui les utilisent.
 </p>
