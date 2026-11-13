@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-cover.svg" alt="Christopher Fordant — Concevoir. Connecter. Faire avancer." width="100%" />
+  <img src="assets/profile-cover-tech.png" alt="Christopher Fordant — Web, automatisation et IA. En recherche de formation POEI ou d’emploi." width="100%" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/christopherfordant/GetYourMentor"><img alt="Découvrir GetYourMentor" src="https://img.shields.io/badge/DÉCOUVRIR-GETYOURMENTOR-b9ff66?style=for-the-badge&amp;labelColor=101827" /></a>
+  <a href="https://github.com/christopherfordant/GetYourMentor"><img alt="Découvrir GetYourMentor" src="https://img.shields.io/badge/DÉCOUVRIR-GETYOURMENTOR-38d9ff?style=for-the-badge&amp;labelColor=101827" /></a>
 </p>
 
 ## À la recherche de ma prochaine opportunité
