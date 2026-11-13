@@ -11,6 +11,12 @@
   <a href="https://github.com/christopherfordant/GetYourMentor"><img alt="Découvrir GetYourMentor" src="https://img.shields.io/badge/DÉCOUVRIR-GETYOURMENTOR-b9ff66?style=for-the-badge&amp;labelColor=101827" /></a>
 </p>
 
+## À la recherche de ma prochaine opportunité
+
+**Je recherche une formation POEI ou un emploi dans le développement web et l’automatisation.**
+
+Mon objectif : rejoindre une équipe, renforcer mes compétences sur des projets concrets et contribuer à des outils utiles. Je suis ouvert aux échanges avec les recruteurs, les entreprises et les organismes de formation.
+
 ## Au croisement du produit et du développement
 
 | Concevoir | Construire | Connecter |
