@@ -10,6 +10,12 @@
   Mon fil conducteur : rendre les choses plus simples pour les personnes qui les utilisent.
 </p>
 
+## Mon portfolio
+
+**[Découvrir mon parcours et mes projets →](https://christopher-fordant-portfolio.netlify.app/)**
+
+[Voir directement GetYourMentor dans le portfolio →](https://christopher-fordant-portfolio.netlify.app/projets#getyourmentor)
+
 ## À la recherche de ma prochaine opportunité
 
 **Je recherche une formation POEI ou un emploi dans le développement web et l’automatisation.**
@@ -28,9 +34,11 @@ Mon objectif : rejoindre une équipe, renforcer mes compétences sur des projets
 
 Un projet de plateforme de coaching sportif individuel : aider les sportifs à trouver leur coach et simplifier l’activité des professionnels.
 
-Le projet est en phase de **conception du MVP**. Le dépôt présente la vision, le parcours de réservation, les spécifications et des pistes d’architecture avec Supabase et n8n.
+Mon portfolio présente le travail réalisé sur GetYourMentor et précise les démonstrations et leurs limites. Ce dépôt GitHub rassemble le cadrage produit, les spécifications et des éléments d’architecture.
 
-**[Explorer le projet →](https://github.com/christopherfordant/GetYourMentor)**
+**[Découvrir GetYourMentor dans mon portfolio →](https://christopher-fordant-portfolio.netlify.app/projets#getyourmentor)**
+
+[Consulter la documentation GitHub](https://github.com/christopherfordant/GetYourMentor)
 
 ---
 
