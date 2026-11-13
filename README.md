@@ -1,0 +1,32 @@
+<p align="center">
+  <img src="assets/profile-cover.svg" alt="Christopher Fordant — Concevoir. Connecter. Faire avancer." width="100%" />
+</p>
+
+<p align="center">
+  <strong>Je transforme des idées en projets web, en parcours utiles et en automatisations.</strong><br />
+  Mon fil conducteur : rendre les choses plus simples pour les personnes qui les utilisent.
+</p>
+
+<p align="center">
+  <a href="https://github.com/christopherfordant/GetYourMentor"><img alt="Découvrir GetYourMentor" src="https://img.shields.io/badge/DÉCOUVRIR-GETYOURMENTOR-b9ff66?style=for-the-badge&amp;labelColor=101827" /></a>
+</p>
+
+## Au croisement du produit et du développement
+
+| Concevoir | Construire | Connecter |
+| :--- | :--- | :--- |
+| Clarifier un besoin, dessiner un parcours et définir un MVP cohérent. | Explorer le développement web à travers des projets concrets. | Imaginer des automatisations pour fluidifier le travail et les données. |
+
+## À la une · GetYourMentor
+
+**Le bon coach. Le prochain cap.**
+
+Un projet de plateforme de coaching sportif individuel : aider les sportifs à trouver leur coach et simplifier l’activité des professionnels.
+
+Le projet est en phase de **conception du MVP**. Le dépôt présente la vision, le parcours de réservation, les spécifications et des pistes d’architecture avec Supabase et n8n.
+
+**[Explorer le projet →](https://github.com/christopherfordant/GetYourMentor)**
+
+---
+
+<p align="center"><strong>Partir d’un besoin. Donner forme à une idée. Avancer par étapes.</strong></p>
